@@ -1,3 +1,6 @@
+[![Run on Repl.it](https://repl.it/badge/github/dalmasjunior/random-transactions)](https://repl.it/github/dalmasjunior/random-transactions)
+
+
 # Random Transactions
 
 This project was created to generate random transactions from a static model as described bellow:
